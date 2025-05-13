@@ -1,5 +1,5 @@
  👋 Hi, I’m Khushboo Gupta
- [![image](https://github.com/user-attachments/assets/5034d306-7d57-41b3-b9eb-bb18d5207dda)
+ ![image](https://github.com/user-attachments/assets/5034d306-7d57-41b3-b9eb-bb18d5207dda)
   - 🌱 I’m Currently Working on Career Networking Platform
 
 - 📫 How to reach me khushboosgupta864@gmail.com
